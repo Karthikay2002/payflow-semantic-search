@@ -32,8 +32,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt || pip install scikit-learn numpy pydantic aiofiles python-dateutil joblib typing-extensions sentence-transformers torch faiss-cpu
+        pip install -r requirements.txt
         pip install pytest pytest-asyncio pytest-cov
+    
+    - name: Install package in development mode
+      run: |
+        pip install -e .
     
     - name: Generate sample data
       run: |
@@ -41,14 +45,7 @@ jobs:
     
     - name: Run tests
       run: |
-        python -m pytest tests/ -v --cov=semantic_search --cov-report=xml
-    
-    - name: Upload coverage reports
-      uses: codecov/codecov-action@v3
-      with:
-        file: ./coverage.xml
-        flags: unittests
-        name: codecov-umbrella
+        python -m pytest tests/ -v
 
   integration-test:
     runs-on: ubuntu-latest
@@ -65,7 +62,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt || pip install scikit-learn numpy pydantic aiofiles python-dateutil joblib typing-extensions sentence-transformers torch faiss-cov
+        pip install -r requirements.txt
+    
+    - name: Install package in development mode
+      run: |
+        pip install -e .
     
     - name: Run integration tests
       run: |
@@ -105,7 +106,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install black isort mypy flake8
-        pip install -r requirements.txt || pip install scikit-learn numpy pydantic aiofiles python-dateutil joblib typing-extensions sentence-transformers torch faiss-cov
+        pip install -r requirements.txt
+    
+    - name: Install package in development mode
+      run: |
+        pip install -e .
     
     - name: Check code formatting
       run: |
