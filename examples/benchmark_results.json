@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-08-21T01:06:11.309400",
+  "document_count": 70,
+  "indexing": {
+    "tfidf": {
+      "indexing_time": 0.00855398178100586,
+      "docs_per_second": 8183.323485144099,
+      "vocabulary_size": 465
+    },
+    "transformer": {
+      "indexing_time": 0.8792271614074707,
+      "docs_per_second": 79.61537481160579,
+      "vector_dimension": 384
+    }
+  },
+  "search": {
+    "software": {
+      "tfidf": {
+        "avg_time": 0.0011225700378417968,
+        "min_time": 0.0005869865417480469,
+        "max_time": 0.002722024917602539,
+        "results_count": 2
+      },
+      "transformer": {
+        "avg_time": 0.18294469515482584,
+        "min_time": 0.008485078811645508,
+        "max_time": 0.5310959815979004,
+        "results_count": 10
+      }
+    },
+    "cloud computing": {
+      "tfidf": {
+        "avg_time": 0.000411224365234375,
+        "min_time": 0.00034689903259277344,
+        "max_time": 0.0005600452423095703,
+        "results_count": 10
+      },
+      "transformer": {
+        "avg_time": 0.14642969767252603,
+        "min_time": 0.007520914077758789,
+        "max_time": 0.42218017578125,
+        "results_count": 10
+      }
+    },
+    "software development consulting": {
+      "tfidf": {
+        "avg_time": 0.0004481792449951172,
+        "min_time": 0.0003409385681152344,
+        "max_time": 0.0006902217864990234,
+        "results_count": 7
+      },
+      "transformer": {
+        "avg_time": 0.014881292978922525,
+        "min_time": 0.008020162582397461,
+        "max_time": 0.027974843978881836,
+        "results_count": 10
+      }
+    },
+    "business travel expenses receipts": {
+      "tfidf": {
+        "avg_time": 0.0004165172576904297,
+        "min_time": 0.00034999847412109375,
+        "max_time": 0.0005288124084472656,
+        "results_count": 10
+      },
+      "transformer": {
+        "avg_time": 0.01604469617207845,
+        "min_time": 0.00813603401184082,
+        "max_time": 0.03104686737060547,
+        "results_count": 10
+      }
+    }
+  },
+  "scaling": {
+    "10": {
+      "tfidf": {
+        "indexing_time": 0.0015501976013183594,
+        "search_time": 0.0005629062652587891,
+        "results_count": 4,
+        "vocabulary_size": 56
+      }
+    },
+    "25": {
+      "tfidf": {
+        "indexing_time": 0.0022771358489990234,
+        "search_time": 0.0003650188446044922,
+        "results_count": 5,
+        "vocabulary_size": 174
+      }
+    },
+    "50": {
+      "tfidf": {
+        "indexing_time": 0.00413203239440918,
+        "search_time": 0.0003681182861328125,
+        "results_count": 5,
+        "vocabulary_size": 427
+      }
+    },
+    "70": {
+      "tfidf": {
+        "indexing_time": 0.005194902420043945,
+        "search_time": 0.00038504600524902344,
+        "results_count": 5,
+        "vocabulary_size": 465
+      }
+    }
+  }
+}

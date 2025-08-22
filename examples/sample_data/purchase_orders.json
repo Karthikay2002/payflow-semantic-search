@@ -1,0 +1,197 @@
+[
+  {
+    "id": "po_001",
+    "content": "PURCHASE ORDER #PO-2024-001\n        \n        Vendor: Salesforce\n        Date: 2025-05-13\n        Expected Delivery: 2025-05-25\n        \n        Items Ordered:\n        Networking equipment (routers, switches)\n        \n        Subtotal: $1,331.87\n        Shipping: $66.59\n        Total: $1,398.46\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-05-13T00:43:14.569314",
+    "metadata": {
+      "amount": 1398.4634999999998,
+      "shipping_cost": 66.59349999999999,
+      "delivery_date": "2025-05-25T00:43:14.569314",
+      "item_category": "networking"
+    }
+  },
+  {
+    "id": "po_002",
+    "content": "PURCHASE ORDER #PO-2024-002\n        \n        Vendor: Microsoft Corporation\n        Date: 2025-07-21\n        Expected Delivery: 2025-08-07\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $1,676.46\n        Shipping: $83.82\n        Total: $1,760.28\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "microsoft_corporation",
+    "doc_type": "purchase_order",
+    "date": "2025-07-21T00:43:14.569314",
+    "metadata": {
+      "amount": 1760.2830000000001,
+      "shipping_cost": 83.82300000000001,
+      "delivery_date": "2025-08-07T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_003",
+    "content": "PURCHASE ORDER #PO-2024-003\n        \n        Vendor: Microsoft Corporation\n        Date: 2025-07-22\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Furniture (desks, chairs, cabinets)\n        \n        Subtotal: $440.02\n        Shipping: $22.00\n        Total: $462.02\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "microsoft_corporation",
+    "doc_type": "purchase_order",
+    "date": "2025-07-22T00:43:14.569314",
+    "metadata": {
+      "amount": 462.021,
+      "shipping_cost": 22.001,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "furniture"
+    }
+  },
+  {
+    "id": "po_004",
+    "content": "PURCHASE ORDER #PO-2024-004\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-17\n        Expected Delivery: 2025-06-06\n        \n        Items Ordered:\n        Mobile devices (phones, tablets)\n        \n        Subtotal: $995.78\n        Shipping: $49.79\n        Total: $1,045.57\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-17T00:43:14.569314",
+    "metadata": {
+      "amount": 1045.569,
+      "shipping_cost": 49.789,
+      "delivery_date": "2025-06-06T00:43:14.569314",
+      "item_category": "mobile"
+    }
+  },
+  {
+    "id": "po_005",
+    "content": "PURCHASE ORDER #PO-2024-005\n        \n        Vendor: Salesforce\n        Date: 2025-06-19\n        Expected Delivery: 2025-06-30\n        \n        Items Ordered:\n        Furniture (desks, chairs, cabinets)\n        \n        Subtotal: $808.90\n        Shipping: $40.45\n        Total: $849.35\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-06-19T00:43:14.569314",
+    "metadata": {
+      "amount": 849.345,
+      "shipping_cost": 40.445,
+      "delivery_date": "2025-06-30T00:43:14.569314",
+      "item_category": "furniture"
+    }
+  },
+  {
+    "id": "po_006",
+    "content": "PURCHASE ORDER #PO-2024-006\n        \n        Vendor: Amazon Business\n        Date: 2025-08-15\n        Expected Delivery: 2025-08-26\n        \n        Items Ordered:\n        Cloud services subscription\n        \n        Subtotal: $747.26\n        Shipping: $37.36\n        Total: $784.62\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "amazon_business",
+    "doc_type": "purchase_order",
+    "date": "2025-08-15T00:43:14.569314",
+    "metadata": {
+      "amount": 784.623,
+      "shipping_cost": 37.363,
+      "delivery_date": "2025-08-26T00:43:14.569314",
+      "item_category": "cloud"
+    }
+  },
+  {
+    "id": "po_007",
+    "content": "PURCHASE ORDER #PO-2024-007\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-09\n        Expected Delivery: 2025-05-21\n        \n        Items Ordered:\n        Office supplies (paper, pens, folders)\n        \n        Subtotal: $186.82\n        Shipping: $9.34\n        Total: $196.16\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-09T00:43:14.569314",
+    "metadata": {
+      "amount": 196.161,
+      "shipping_cost": 9.341,
+      "delivery_date": "2025-05-21T00:43:14.569314",
+      "item_category": "office"
+    }
+  },
+  {
+    "id": "po_008",
+    "content": "PURCHASE ORDER #PO-2024-008\n        \n        Vendor: Staples Inc\n        Date: 2025-07-24\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $2,125.79\n        Shipping: $106.29\n        Total: $2,232.08\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "staples_inc",
+    "doc_type": "purchase_order",
+    "date": "2025-07-24T00:43:14.569314",
+    "metadata": {
+      "amount": 2232.0795000000003,
+      "shipping_cost": 106.2895,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_009",
+    "content": "PURCHASE ORDER #PO-2024-009\n        \n        Vendor: Amazon Business\n        Date: 2025-06-04\n        Expected Delivery: 2025-06-17\n        \n        Items Ordered:\n        Printing supplies (toner, paper)\n        \n        Subtotal: $311.63\n        Shipping: $15.58\n        Total: $327.21\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "amazon_business",
+    "doc_type": "purchase_order",
+    "date": "2025-06-04T00:43:14.569314",
+    "metadata": {
+      "amount": 327.2115,
+      "shipping_cost": 15.5815,
+      "delivery_date": "2025-06-17T00:43:14.569314",
+      "item_category": "printing"
+    }
+  },
+  {
+    "id": "po_010",
+    "content": "PURCHASE ORDER #PO-2024-010\n        \n        Vendor: Office Depot\n        Date: 2025-06-27\n        Expected Delivery: 2025-07-04\n        \n        Items Ordered:\n        Cloud services subscription\n        \n        Subtotal: $612.15\n        Shipping: $30.61\n        Total: $642.76\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "office_depot",
+    "doc_type": "purchase_order",
+    "date": "2025-06-27T00:43:14.569314",
+    "metadata": {
+      "amount": 642.7575,
+      "shipping_cost": 30.6075,
+      "delivery_date": "2025-07-04T00:43:14.569314",
+      "item_category": "cloud"
+    }
+  },
+  {
+    "id": "po_011",
+    "content": "PURCHASE ORDER #PO-2024-011\n        \n        Vendor: Office Depot\n        Date: 2025-06-13\n        Expected Delivery: 2025-06-24\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $806.55\n        Shipping: $40.33\n        Total: $846.88\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "office_depot",
+    "doc_type": "purchase_order",
+    "date": "2025-06-13T00:43:14.569314",
+    "metadata": {
+      "amount": 846.8774999999999,
+      "shipping_cost": 40.3275,
+      "delivery_date": "2025-06-24T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_012",
+    "content": "PURCHASE ORDER #PO-2024-012\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-22\n        Expected Delivery: 2025-06-09\n        \n        Items Ordered:\n        Mobile devices (phones, tablets)\n        \n        Subtotal: $811.96\n        Shipping: $40.60\n        Total: $852.56\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-22T00:43:14.569314",
+    "metadata": {
+      "amount": 852.5580000000001,
+      "shipping_cost": 40.598000000000006,
+      "delivery_date": "2025-06-09T00:43:14.569314",
+      "item_category": "mobile"
+    }
+  },
+  {
+    "id": "po_013",
+    "content": "PURCHASE ORDER #PO-2024-013\n        \n        Vendor: Staples Inc\n        Date: 2025-05-01\n        Expected Delivery: 2025-05-11\n        \n        Items Ordered:\n        Software licenses (productivity suite)\n        \n        Subtotal: $1,190.26\n        Shipping: $59.51\n        Total: $1,249.77\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "staples_inc",
+    "doc_type": "purchase_order",
+    "date": "2025-05-01T00:43:14.569314",
+    "metadata": {
+      "amount": 1249.7730000000001,
+      "shipping_cost": 59.513000000000005,
+      "delivery_date": "2025-05-11T00:43:14.569314",
+      "item_category": "software"
+    }
+  },
+  {
+    "id": "po_014",
+    "content": "PURCHASE ORDER #PO-2024-014\n        \n        Vendor: Salesforce\n        Date: 2025-07-20\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $2,466.26\n        Shipping: $123.31\n        Total: $2,589.57\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-07-20T00:43:14.569314",
+    "metadata": {
+      "amount": 2589.5730000000003,
+      "shipping_cost": 123.31300000000002,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_015",
+    "content": "PURCHASE ORDER #PO-2024-015\n        \n        Vendor: Salesforce\n        Date: 2025-06-06\n        Expected Delivery: 2025-06-26\n        \n        Items Ordered:\n        Office supplies (paper, pens, folders)\n        \n        Subtotal: $200.05\n        Shipping: $10.00\n        Total: $210.05\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-06-06T00:43:14.569314",
+    "metadata": {
+      "amount": 210.0525,
+      "shipping_cost": 10.002500000000001,
+      "delivery_date": "2025-06-26T00:43:14.569314",
+      "item_category": "office"
+    }
+  }
+]

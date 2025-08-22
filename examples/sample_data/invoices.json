@@ -1,0 +1,262 @@
+[
+  {
+    "id": "inv_001",
+    "content": "INVOICE #INV-2024-001\n        \n        From: Cloud Nine Technologies\n        Date: 2025-07-01\n        Due Date: 2025-07-31\n        \n        Description: Database optimization and maintenance\n        Amount: $11,295.11\n        Tax (8.5%): $960.08\n        Total Amount: $12,255.19\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "cloud_nine_technologies",
+    "doc_type": "invoice",
+    "date": "2025-07-01T00:43:14.569103",
+    "metadata": {
+      "amount": 12255.19435,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-31T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_002",
+    "content": "INVOICE #INV-2024-002\n        \n        From: Global Services Inc\n        Date: 2025-03-08\n        Due Date: 2025-04-07\n        \n        Description: Cloud infrastructure management\n        Amount: $14,749.59\n        Tax (8.5%): $1,253.72\n        Total Amount: $16,003.31\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "global_services_inc",
+    "doc_type": "invoice",
+    "date": "2025-03-08T00:43:14.569103",
+    "metadata": {
+      "amount": 16003.30515,
+      "tax_rate": 0.085,
+      "due_date": "2025-04-07T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_003",
+    "content": "INVOICE #INV-2024-003\n        \n        From: Innovation Labs\n        Date: 2025-04-09\n        Due Date: 2025-05-09\n        \n        Description: System integration services\n        Amount: $9,974.92\n        Tax (8.5%): $847.87\n        Total Amount: $10,822.79\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-04-09T00:43:14.569103",
+    "metadata": {
+      "amount": 10822.788199999999,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-09T00:43:14.569103",
+      "service_category": "system"
+    }
+  },
+  {
+    "id": "inv_004",
+    "content": "INVOICE #INV-2024-004\n        \n        From: TechCorp Solutions\n        Date: 2025-05-16\n        Due Date: 2025-06-15\n        \n        Description: Cloud infrastructure management\n        Amount: $7,329.52\n        Tax (8.5%): $623.01\n        Total Amount: $7,952.53\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-05-16T00:43:14.569103",
+    "metadata": {
+      "amount": 7952.5292,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-15T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_005",
+    "content": "INVOICE #INV-2024-005\n        \n        From: Enterprise Systems\n        Date: 2025-07-04\n        Due Date: 2025-08-03\n        \n        Description: Database optimization and maintenance\n        Amount: $2,248.05\n        Tax (8.5%): $191.08\n        Total Amount: $2,439.13\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-07-04T00:43:14.569103",
+    "metadata": {
+      "amount": 2439.13425,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-03T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_006",
+    "content": "INVOICE #INV-2024-006\n        \n        From: Enterprise Systems\n        Date: 2025-06-17\n        Due Date: 2025-07-17\n        \n        Description: Cloud infrastructure management\n        Amount: $2,644.36\n        Tax (8.5%): $224.77\n        Total Amount: $2,869.13\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-06-17T00:43:14.569103",
+    "metadata": {
+      "amount": 2869.1306,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-17T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_007",
+    "content": "INVOICE #INV-2024-007\n        \n        From: Innovation Labs\n        Date: 2025-06-12\n        Due Date: 2025-07-12\n        \n        Description: Mobile application development\n        Amount: $3,220.56\n        Tax (8.5%): $273.75\n        Total Amount: $3,494.31\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-06-12T00:43:14.569103",
+    "metadata": {
+      "amount": 3494.3075999999996,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-12T00:43:14.569103",
+      "service_category": "mobile"
+    }
+  },
+  {
+    "id": "inv_008",
+    "content": "INVOICE #INV-2024-008\n        \n        From: Digital Dynamics\n        Date: 2025-07-19\n        Due Date: 2025-08-18\n        \n        Description: Database optimization and maintenance\n        Amount: $4,026.72\n        Tax (8.5%): $342.27\n        Total Amount: $4,368.99\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "digital_dynamics",
+    "doc_type": "invoice",
+    "date": "2025-07-19T00:43:14.569103",
+    "metadata": {
+      "amount": 4368.9911999999995,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-18T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_009",
+    "content": "INVOICE #INV-2024-009\n        \n        From: Enterprise Systems\n        Date: 2025-05-27\n        Due Date: 2025-06-26\n        \n        Description: Web development and design services\n        Amount: $3,210.13\n        Tax (8.5%): $272.86\n        Total Amount: $3,482.99\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-05-27T00:43:14.569103",
+    "metadata": {
+      "amount": 3482.99105,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-26T00:43:14.569103",
+      "service_category": "web"
+    }
+  },
+  {
+    "id": "inv_010",
+    "content": "INVOICE #INV-2024-010\n        \n        From: Quantum Solutions\n        Date: 2025-03-22\n        Due Date: 2025-04-21\n        \n        Description: Web development and design services\n        Amount: $2,114.20\n        Tax (8.5%): $179.71\n        Total Amount: $2,293.91\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "quantum_solutions",
+    "doc_type": "invoice",
+    "date": "2025-03-22T00:43:14.569103",
+    "metadata": {
+      "amount": 2293.9069999999997,
+      "tax_rate": 0.085,
+      "due_date": "2025-04-21T00:43:14.569103",
+      "service_category": "web"
+    }
+  },
+  {
+    "id": "inv_011",
+    "content": "INVOICE #INV-2024-011\n        \n        From: Global Services Inc\n        Date: 2025-04-22\n        Due Date: 2025-05-22\n        \n        Description: Software consulting and implementation\n        Amount: $12,689.90\n        Tax (8.5%): $1,078.64\n        Total Amount: $13,768.54\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "global_services_inc",
+    "doc_type": "invoice",
+    "date": "2025-04-22T00:43:14.569103",
+    "metadata": {
+      "amount": 13768.5415,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-22T00:43:14.569103",
+      "service_category": "software"
+    }
+  },
+  {
+    "id": "inv_012",
+    "content": "INVOICE #INV-2024-012\n        \n        From: Enterprise Systems\n        Date: 2025-06-07\n        Due Date: 2025-07-07\n        \n        Description: Business process automation\n        Amount: $10,727.08\n        Tax (8.5%): $911.80\n        Total Amount: $11,638.88\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-06-07T00:43:14.569103",
+    "metadata": {
+      "amount": 11638.8818,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-07T00:43:14.569103",
+      "service_category": "business"
+    }
+  },
+  {
+    "id": "inv_013",
+    "content": "INVOICE #INV-2024-013\n        \n        From: TechCorp Solutions\n        Date: 2025-05-15\n        Due Date: 2025-06-14\n        \n        Description: Cloud infrastructure management\n        Amount: $3,813.09\n        Tax (8.5%): $324.11\n        Total Amount: $4,137.20\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-05-15T00:43:14.569103",
+    "metadata": {
+      "amount": 4137.20265,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-14T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_014",
+    "content": "INVOICE #INV-2024-014\n        \n        From: Enterprise Systems\n        Date: 2025-04-02\n        Due Date: 2025-05-02\n        \n        Description: Digital marketing services\n        Amount: $1,914.27\n        Tax (8.5%): $162.71\n        Total Amount: $2,076.98\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-04-02T00:43:14.569103",
+    "metadata": {
+      "amount": 2076.98295,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-02T00:43:14.569103",
+      "service_category": "digital"
+    }
+  },
+  {
+    "id": "inv_015",
+    "content": "INVOICE #INV-2024-015\n        \n        From: Innovation Labs\n        Date: 2025-05-25\n        Due Date: 2025-06-24\n        \n        Description: Digital marketing services\n        Amount: $8,600.51\n        Tax (8.5%): $731.04\n        Total Amount: $9,331.55\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-05-25T00:43:14.569103",
+    "metadata": {
+      "amount": 9331.55335,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-24T00:43:14.569103",
+      "service_category": "digital"
+    }
+  },
+  {
+    "id": "inv_016",
+    "content": "INVOICE #INV-2024-016\n        \n        From: TechCorp Solutions\n        Date: 2025-07-03\n        Due Date: 2025-08-02\n        \n        Description: IT support and maintenance\n        Amount: $5,861.83\n        Tax (8.5%): $498.26\n        Total Amount: $6,360.09\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-07-03T00:43:14.569103",
+    "metadata": {
+      "amount": 6360.08555,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-02T00:43:14.569103",
+      "service_category": "it"
+    }
+  },
+  {
+    "id": "inv_017",
+    "content": "INVOICE #INV-2024-017\n        \n        From: Digital Dynamics\n        Date: 2025-06-13\n        Due Date: 2025-07-13\n        \n        Description: Database optimization and maintenance\n        Amount: $10,047.23\n        Tax (8.5%): $854.01\n        Total Amount: $10,901.24\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "digital_dynamics",
+    "doc_type": "invoice",
+    "date": "2025-06-13T00:43:14.569103",
+    "metadata": {
+      "amount": 10901.24455,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-13T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_018",
+    "content": "INVOICE #INV-2024-018\n        \n        From: Enterprise Systems\n        Date: 2025-08-16\n        Due Date: 2025-09-15\n        \n        Description: Database optimization and maintenance\n        Amount: $11,367.63\n        Tax (8.5%): $966.25\n        Total Amount: $12,333.88\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-08-16T00:43:14.569103",
+    "metadata": {
+      "amount": 12333.87855,
+      "tax_rate": 0.085,
+      "due_date": "2025-09-15T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_019",
+    "content": "INVOICE #INV-2024-019\n        \n        From: Cloud Nine Technologies\n        Date: 2025-05-10\n        Due Date: 2025-06-09\n        \n        Description: System integration services\n        Amount: $813.95\n        Tax (8.5%): $69.19\n        Total Amount: $883.14\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "cloud_nine_technologies",
+    "doc_type": "invoice",
+    "date": "2025-05-10T00:43:14.569103",
+    "metadata": {
+      "amount": 883.13575,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-09T00:43:14.569103",
+      "service_category": "system"
+    }
+  },
+  {
+    "id": "inv_020",
+    "content": "INVOICE #INV-2024-020\n        \n        From: ACME Corporation\n        Date: 2025-05-03\n        Due Date: 2025-06-02\n        \n        Description: Digital marketing services\n        Amount: $1,417.05\n        Tax (8.5%): $120.45\n        Total Amount: $1,537.50\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "acme_corporation",
+    "doc_type": "invoice",
+    "date": "2025-05-03T00:43:14.569103",
+    "metadata": {
+      "amount": 1537.4992499999998,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-02T00:43:14.569103",
+      "service_category": "digital"
+    }
+  }
+]

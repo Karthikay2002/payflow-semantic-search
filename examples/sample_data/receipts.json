@@ -1,0 +1,352 @@
+[
+  {
+    "id": "receipt_001",
+    "content": "RECEIPT #RCP-0001\n        \n        Merchant: Conference Center\n        Date: 2025-07-13\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $562.38\n        Tax: $49.21\n        Total: $611.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7028\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-07-13T00:43:14.569542",
+    "metadata": {
+      "amount": 611.5882499999999,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_002",
+    "content": "RECEIPT #RCP-0002\n        \n        Merchant: Conference Center\n        Date: 2025-05-23\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $48.34\n        Tax: $4.23\n        Total: $52.57\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6238\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-05-23T00:43:14.569542",
+    "metadata": {
+      "amount": 52.56975,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_003",
+    "content": "RECEIPT #RCP-0003\n        \n        Merchant: Gas Station Plus\n        Date: 2025-05-23\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $75.40\n        Tax: $6.60\n        Total: $82.00\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7869\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-05-23T00:43:14.569542",
+    "metadata": {
+      "amount": 81.9975,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_004",
+    "content": "RECEIPT #RCP-0004\n        \n        Merchant: Hotel California\n        Date: 2025-06-16\n        Time: 00:43\n        \n        Description: Business travel - car rental\n        Amount: $119.83\n        Tax: $10.49\n        Total: $130.32\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4739\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-06-16T00:43:14.569542",
+    "metadata": {
+      "amount": 130.315125,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_005",
+    "content": "RECEIPT #RCP-0005\n        \n        Merchant: Business Travel Agency\n        Date: 2025-06-19\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $283.20\n        Tax: $24.78\n        Total: $307.98\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9710\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "business_travel_agency",
+    "doc_type": "receipt",
+    "date": "2025-06-19T00:43:14.569542",
+    "metadata": {
+      "amount": 307.97999999999996,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_006",
+    "content": "RECEIPT #RCP-0006\n        \n        Merchant: Conference Center\n        Date: 2025-08-09\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $398.55\n        Tax: $34.87\n        Total: $433.42\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9021\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-08-09T00:43:14.569542",
+    "metadata": {
+      "amount": 433.42312499999997,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_007",
+    "content": "RECEIPT #RCP-0007\n        \n        Merchant: Office Supply Store\n        Date: 2025-05-29\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $93.16\n        Tax: $8.15\n        Total: $101.31\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4477\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-05-29T00:43:14.569542",
+    "metadata": {
+      "amount": 101.31149999999998,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_008",
+    "content": "RECEIPT #RCP-0008\n        \n        Merchant: Enterprise Car Rental\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business meals - employee lunch\n        Amount: $62.15\n        Tax: $5.44\n        Total: $67.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3665\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "enterprise_car_rental",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 67.58812499999999,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_009",
+    "content": "RECEIPT #RCP-0009\n        \n        Merchant: Coffee Shop Express\n        Date: 2025-06-15\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $249.64\n        Tax: $21.84\n        Total: $271.48\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6472\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "coffee_shop_express",
+    "doc_type": "receipt",
+    "date": "2025-06-15T00:43:14.569542",
+    "metadata": {
+      "amount": 271.48349999999994,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_010",
+    "content": "RECEIPT #RCP-0010\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-07-31\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $252.78\n        Tax: $22.12\n        Total: $274.90\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3378\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-07-31T00:43:14.569542",
+    "metadata": {
+      "amount": 274.89824999999996,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_011",
+    "content": "RECEIPT #RCP-0011\n        \n        Merchant: Conference Center\n        Date: 2025-05-29\n        Time: 00:43\n        \n        Description: Business meals - employee lunch\n        Amount: $45.92\n        Tax: $4.02\n        Total: $49.94\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7527\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-05-29T00:43:14.569542",
+    "metadata": {
+      "amount": 49.937999999999995,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_012",
+    "content": "RECEIPT #RCP-0012\n        \n        Merchant: Office Supply Store\n        Date: 2025-08-05\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $59.32\n        Tax: $5.19\n        Total: $64.51\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3056\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-08-05T00:43:14.569542",
+    "metadata": {
+      "amount": 64.5105,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_013",
+    "content": "RECEIPT #RCP-0013\n        \n        Merchant: Office Supply Store\n        Date: 2025-06-12\n        Time: 00:43\n        \n        Description: Office supplies and materials\n        Amount: $73.86\n        Tax: $6.46\n        Total: $80.32\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4083\n        \n        Business Purpose: Office Supplies And Materials\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-06-12T00:43:14.569542",
+    "metadata": {
+      "amount": 80.32275,
+      "tax_rate": 0.0875,
+      "category": "office_supplies_and_materials",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_014",
+    "content": "RECEIPT #RCP-0014\n        \n        Merchant: Business Travel Agency\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $395.25\n        Tax: $34.58\n        Total: $429.83\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6803\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "business_travel_agency",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 429.83437499999997,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_015",
+    "content": "RECEIPT #RCP-0015\n        \n        Merchant: Hotel California\n        Date: 2025-06-28\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $101.40\n        Tax: $8.87\n        Total: $110.27\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7311\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-06-28T00:43:14.569542",
+    "metadata": {
+      "amount": 110.2725,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_016",
+    "content": "RECEIPT #RCP-0016\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-07-14\n        Time: 00:43\n        \n        Description: Office supplies and materials\n        Amount: $76.69\n        Tax: $6.71\n        Total: $83.40\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6804\n        \n        Business Purpose: Office Supplies And Materials\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-07-14T00:43:14.569542",
+    "metadata": {
+      "amount": 83.400375,
+      "tax_rate": 0.0875,
+      "category": "office_supplies_and_materials",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_017",
+    "content": "RECEIPT #RCP-0017\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-08-03\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $786.56\n        Tax: $68.82\n        Total: $855.38\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7520\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-08-03T00:43:14.569542",
+    "metadata": {
+      "amount": 855.3839999999999,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_018",
+    "content": "RECEIPT #RCP-0018\n        \n        Merchant: Hotel California\n        Date: 2025-07-14\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $513.66\n        Tax: $44.95\n        Total: $558.61\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3318\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-07-14T00:43:14.569542",
+    "metadata": {
+      "amount": 558.60525,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_019",
+    "content": "RECEIPT #RCP-0019\n        \n        Merchant: Hotel California\n        Date: 2025-07-16\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $49.36\n        Tax: $4.32\n        Total: $53.68\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 5275\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-07-16T00:43:14.569542",
+    "metadata": {
+      "amount": 53.678999999999995,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_020",
+    "content": "RECEIPT #RCP-0020\n        \n        Merchant: Conference Center\n        Date: 2025-07-03\n        Time: 00:43\n        \n        Description: Business travel - car rental\n        Amount: $84.59\n        Tax: $7.40\n        Total: $91.99\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 8011\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-07-03T00:43:14.569542",
+    "metadata": {
+      "amount": 91.991625,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_021",
+    "content": "RECEIPT #RCP-0021\n        \n        Merchant: Gas Station Plus\n        Date: 2025-06-12\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $121.69\n        Tax: $10.65\n        Total: $132.34\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9589\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-06-12T00:43:14.569542",
+    "metadata": {
+      "amount": 132.337875,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_022",
+    "content": "RECEIPT #RCP-0022\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-06-01\n        Time: 00:43\n        \n        Description: Business travel - parking\n        Amount: $32.72\n        Tax: $2.86\n        Total: $35.58\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4156\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-06-01T00:43:14.569542",
+    "metadata": {
+      "amount": 35.583,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_023",
+    "content": "RECEIPT #RCP-0023\n        \n        Merchant: Gas Station Plus\n        Date: 2025-06-09\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $319.32\n        Tax: $27.94\n        Total: $347.26\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3031\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-06-09T00:43:14.569542",
+    "metadata": {
+      "amount": 347.2605,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_024",
+    "content": "RECEIPT #RCP-0024\n        \n        Merchant: Conference Center\n        Date: 2025-08-15\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $786.79\n        Tax: $68.84\n        Total: $855.63\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 2281\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-08-15T00:43:14.569542",
+    "metadata": {
+      "amount": 855.6341249999999,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_025",
+    "content": "RECEIPT #RCP-0025\n        \n        Merchant: Office Supply Store\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $159.62\n        Tax: $13.97\n        Total: $173.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7182\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 173.58675,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "contract_001",
+    "content": "SERVICE AGREEMENT #SA-2024-001\n        \n        Service Provider: Marketing Experts\n        Client: Your Company Name\n        \n        Contract Date: 2024-10-07\n        Effective Period: 2024-10-07 to 2026-09-27\n        Duration: 24 months\n        \n        Services Description:\n        Business consulting\n        \n        Financial Terms:\n        Monthly Fee: $773.86\n        Total Contract Value: $18,572.64\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "marketing_experts",
+    "doc_type": "contract",
+    "date": "2024-10-07T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 773.86,
+      "duration_months": 24,
+      "total_value": 18572.64,
+      "end_date": "2026-09-27T00:43:14.569438",
+      "service_category": "business"
+    }
+  },
+  {
+    "id": "contract_002",
+    "content": "SERVICE AGREEMENT #SA-2024-002\n        \n        Service Provider: SecureData Inc\n        Client: Your Company Name\n        \n        Contract Date: 2025-01-05\n        Effective Period: 2025-01-05 to 2025-07-04\n        Duration: 6 months\n        \n        Services Description:\n        Facility maintenance services\n        \n        Financial Terms:\n        Monthly Fee: $1,045.64\n        Total Contract Value: $6,273.84\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "securedata_inc",
+    "doc_type": "contract",
+    "date": "2025-01-05T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 1045.64,
+      "duration_months": 6,
+      "total_value": 6273.84,
+      "end_date": "2025-07-04T00:43:14.569438",
+      "service_category": "facility"
+    }
+  },
+  {
+    "id": "contract_003",
+    "content": "SERVICE AGREEMENT #SA-2024-003\n        \n        Service Provider: SecureData Inc\n        Client: Your Company Name\n        \n        Contract Date: 2024-12-23\n        Effective Period: 2024-12-23 to 2025-12-18\n        Duration: 12 months\n        \n        Services Description:\n        IT support and maintenance\n        \n        Financial Terms:\n        Monthly Fee: $765.56\n        Total Contract Value: $9,186.72\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "securedata_inc",
+    "doc_type": "contract",
+    "date": "2024-12-23T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 765.56,
+      "duration_months": 12,
+      "total_value": 9186.72,
+      "end_date": "2025-12-18T00:43:14.569438",
+      "service_category": "it"
+    }
+  },
+  {
+    "id": "contract_004",
+    "content": "SERVICE AGREEMENT #SA-2024-004\n        \n        Service Provider: Maintenance Solutions\n        Client: Your Company Name\n        \n        Contract Date: 2025-06-17\n        Effective Period: 2025-06-17 to 2028-06-01\n        Duration: 36 months\n        \n        Services Description:\n        Security monitoring services\n        \n        Financial Terms:\n        Monthly Fee: $418.98\n        Total Contract Value: $15,083.28\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "maintenance_solutions",
+    "doc_type": "contract",
+    "date": "2025-06-17T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 418.98,
+      "duration_months": 36,
+      "total_value": 15083.28,
+      "end_date": "2028-06-01T00:43:14.569438",
+      "service_category": "security"
+    }
+  },
+  {
+    "id": "contract_005",
+    "content": "SERVICE AGREEMENT #SA-2024-005\n        \n        Service Provider: Consulting Group\n        Client: Your Company Name\n        \n        Contract Date: 2025-03-30\n        Effective Period: 2025-03-30 to 2026-03-25\n        Duration: 12 months\n        \n        Services Description:\n        Legal consultation services\n        \n        Financial Terms:\n        Monthly Fee: $344.69\n        Total Contract Value: $4,136.28\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "consulting_group",
+    "doc_type": "contract",
+    "date": "2025-03-30T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 344.69,
+      "duration_months": 12,
+      "total_value": 4136.28,
+      "end_date": "2026-03-25T00:43:14.569438",
+      "service_category": "legal"
+    }
+  },
+  {
+    "id": "contract_006",
+    "content": "SERVICE AGREEMENT #SA-2024-006\n        \n        Service Provider: CloudHost Services\n        Client: Your Company Name\n        \n        Contract Date: 2025-06-09\n        Effective Period: 2025-06-09 to 2025-12-06\n        Duration: 6 months\n        \n        Services Description:\n        Marketing and advertising services\n        \n        Financial Terms:\n        Monthly Fee: $2,528.61\n        Total Contract Value: $15,171.66\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "cloudhost_services",
+    "doc_type": "contract",
+    "date": "2025-06-09T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 2528.61,
+      "duration_months": 6,
+      "total_value": 15171.66,
+      "end_date": "2025-12-06T00:43:14.569438",
+      "service_category": "marketing"
+    }
+  },
+  {
+    "id": "contract_007",
+    "content": "SERVICE AGREEMENT #SA-2024-007\n        \n        Service Provider: Marketing Experts\n        Client: Your Company Name\n        \n        Contract Date: 2025-02-16\n        Effective Period: 2025-02-16 to 2028-02-01\n        Duration: 36 months\n        \n        Services Description:\n        Security monitoring services\n        \n        Financial Terms:\n        Monthly Fee: $727.34\n        Total Contract Value: $26,184.24\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "marketing_experts",
+    "doc_type": "contract",
+    "date": "2025-02-16T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 727.34,
+      "duration_months": 36,
+      "total_value": 26184.24,
+      "end_date": "2028-02-01T00:43:14.569438",
+      "service_category": "security"
+    }
+  },
+  {
+    "id": "contract_008",
+    "content": "SERVICE AGREEMENT #SA-2024-008\n        \n        Service Provider: Legal Advisors LLC\n        Client: Your Company Name\n        \n        Contract Date: 2024-10-05\n        Effective Period: 2024-10-05 to 2025-09-30\n        Duration: 12 months\n        \n        Services Description:\n        Cloud hosting and backup services\n        \n        Financial Terms:\n        Monthly Fee: $358.11\n        Total Contract Value: $4,297.32\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "legal_advisors_llc",
+    "doc_type": "contract",
+    "date": "2024-10-05T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 358.11,
+      "duration_months": 12,
+      "total_value": 4297.32,
+      "end_date": "2025-09-30T00:43:14.569438",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "contract_009",
+    "content": "SERVICE AGREEMENT #SA-2024-009\n        \n        Service Provider: Security Systems\n        Client: Your Company Name\n        \n        Contract Date: 2024-12-29\n        Effective Period: 2024-12-29 to 2027-12-14\n        Duration: 36 months\n        \n        Services Description:\n        Facility maintenance services\n        \n        Financial Terms:\n        Monthly Fee: $608.22\n        Total Contract Value: $21,895.92\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "security_systems",
+    "doc_type": "contract",
+    "date": "2024-12-29T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 608.22,
+      "duration_months": 36,
+      "total_value": 21895.920000000002,
+      "end_date": "2027-12-14T00:43:14.569438",
+      "service_category": "facility"
+    }
+  },
+  {
+    "id": "contract_010",
+    "content": "SERVICE AGREEMENT #SA-2024-010\n        \n        Service Provider: Security Systems\n        Client: Your Company Name\n        \n        Contract Date: 2025-03-31\n        Effective Period: 2025-03-31 to 2028-03-15\n        Duration: 36 months\n        \n        Services Description:\n        Cloud hosting and backup services\n        \n        Financial Terms:\n        Monthly Fee: $827.05\n        Total Contract Value: $29,773.80\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "security_systems",
+    "doc_type": "contract",
+    "date": "2025-03-31T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 827.05,
+      "duration_months": 36,
+      "total_value": 29773.8,
+      "end_date": "2028-03-15T00:43:14.569438",
+      "service_category": "cloud"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  semantic-search:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+      args:
+        BUILD_DATE: ${BUILD_DATE:-$(date -u +'%Y-%m-%dT%H:%M:%SZ')}
+        VERSION: ${VERSION:-1.0.0}
+        VCS_REF: ${VCS_REF:-$(git rev-parse --short HEAD)}
+    image: semantic-search:latest
+    container_name: semantic-search-app
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - INDEX_PATH=/app/indices
+      - PYTHONPATH=/app/src
+    volumes:
+      - semantic_search_data:/app/data
+      - semantic_search_indices:/app/indices
+      - semantic_search_logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import semantic_search; print('OK')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    # Uncomment if you want to run interactively
+    # stdin_open: true
+    # tty: true
+    
+  # Development service with mounted source code
+  semantic-search-dev:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+      target: builder
+    image: semantic-search:dev
+    container_name: semantic-search-dev
+    environment:
+      - LOG_LEVEL=DEBUG
+      - INDEX_PATH=/app/indices
+      - PYTHONPATH=/app/src
+    volumes:
+      - ../src:/app/src:ro
+      - ../examples:/app/examples:ro
+      - ../tests:/app/tests:ro
+      - semantic_search_dev_data:/app/data
+      - semantic_search_dev_indices:/app/indices
+      - semantic_search_dev_logs:/app/logs
+    command: ["python", "examples/basic_usage.py"]
+    profiles:
+      - dev
+
+volumes:
+  semantic_search_data:
+    driver: local
+  semantic_search_indices:
+    driver: local
+  semantic_search_logs:
+    driver: local
+  semantic_search_dev_data:
+    driver: local
+  semantic_search_dev_indices:
+    driver: local
+  semantic_search_dev_logs:
+    driver: local
+
+networks:
+  default:
+    name: semantic-search-network

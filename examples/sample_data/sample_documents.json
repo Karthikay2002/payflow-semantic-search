@@ -1,0 +1,947 @@
+[
+  {
+    "id": "inv_001",
+    "content": "INVOICE #INV-2024-001\n        \n        From: Cloud Nine Technologies\n        Date: 2025-07-01\n        Due Date: 2025-07-31\n        \n        Description: Database optimization and maintenance\n        Amount: $11,295.11\n        Tax (8.5%): $960.08\n        Total Amount: $12,255.19\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "cloud_nine_technologies",
+    "doc_type": "invoice",
+    "date": "2025-07-01T00:43:14.569103",
+    "metadata": {
+      "amount": 12255.19435,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-31T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_002",
+    "content": "INVOICE #INV-2024-002\n        \n        From: Global Services Inc\n        Date: 2025-03-08\n        Due Date: 2025-04-07\n        \n        Description: Cloud infrastructure management\n        Amount: $14,749.59\n        Tax (8.5%): $1,253.72\n        Total Amount: $16,003.31\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "global_services_inc",
+    "doc_type": "invoice",
+    "date": "2025-03-08T00:43:14.569103",
+    "metadata": {
+      "amount": 16003.30515,
+      "tax_rate": 0.085,
+      "due_date": "2025-04-07T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_003",
+    "content": "INVOICE #INV-2024-003\n        \n        From: Innovation Labs\n        Date: 2025-04-09\n        Due Date: 2025-05-09\n        \n        Description: System integration services\n        Amount: $9,974.92\n        Tax (8.5%): $847.87\n        Total Amount: $10,822.79\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-04-09T00:43:14.569103",
+    "metadata": {
+      "amount": 10822.788199999999,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-09T00:43:14.569103",
+      "service_category": "system"
+    }
+  },
+  {
+    "id": "inv_004",
+    "content": "INVOICE #INV-2024-004\n        \n        From: TechCorp Solutions\n        Date: 2025-05-16\n        Due Date: 2025-06-15\n        \n        Description: Cloud infrastructure management\n        Amount: $7,329.52\n        Tax (8.5%): $623.01\n        Total Amount: $7,952.53\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-05-16T00:43:14.569103",
+    "metadata": {
+      "amount": 7952.5292,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-15T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_005",
+    "content": "INVOICE #INV-2024-005\n        \n        From: Enterprise Systems\n        Date: 2025-07-04\n        Due Date: 2025-08-03\n        \n        Description: Database optimization and maintenance\n        Amount: $2,248.05\n        Tax (8.5%): $191.08\n        Total Amount: $2,439.13\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-07-04T00:43:14.569103",
+    "metadata": {
+      "amount": 2439.13425,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-03T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_006",
+    "content": "INVOICE #INV-2024-006\n        \n        From: Enterprise Systems\n        Date: 2025-06-17\n        Due Date: 2025-07-17\n        \n        Description: Cloud infrastructure management\n        Amount: $2,644.36\n        Tax (8.5%): $224.77\n        Total Amount: $2,869.13\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-06-17T00:43:14.569103",
+    "metadata": {
+      "amount": 2869.1306,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-17T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_007",
+    "content": "INVOICE #INV-2024-007\n        \n        From: Innovation Labs\n        Date: 2025-06-12\n        Due Date: 2025-07-12\n        \n        Description: Mobile application development\n        Amount: $3,220.56\n        Tax (8.5%): $273.75\n        Total Amount: $3,494.31\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-06-12T00:43:14.569103",
+    "metadata": {
+      "amount": 3494.3075999999996,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-12T00:43:14.569103",
+      "service_category": "mobile"
+    }
+  },
+  {
+    "id": "inv_008",
+    "content": "INVOICE #INV-2024-008\n        \n        From: Digital Dynamics\n        Date: 2025-07-19\n        Due Date: 2025-08-18\n        \n        Description: Database optimization and maintenance\n        Amount: $4,026.72\n        Tax (8.5%): $342.27\n        Total Amount: $4,368.99\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "digital_dynamics",
+    "doc_type": "invoice",
+    "date": "2025-07-19T00:43:14.569103",
+    "metadata": {
+      "amount": 4368.9911999999995,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-18T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_009",
+    "content": "INVOICE #INV-2024-009\n        \n        From: Enterprise Systems\n        Date: 2025-05-27\n        Due Date: 2025-06-26\n        \n        Description: Web development and design services\n        Amount: $3,210.13\n        Tax (8.5%): $272.86\n        Total Amount: $3,482.99\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-05-27T00:43:14.569103",
+    "metadata": {
+      "amount": 3482.99105,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-26T00:43:14.569103",
+      "service_category": "web"
+    }
+  },
+  {
+    "id": "inv_010",
+    "content": "INVOICE #INV-2024-010\n        \n        From: Quantum Solutions\n        Date: 2025-03-22\n        Due Date: 2025-04-21\n        \n        Description: Web development and design services\n        Amount: $2,114.20\n        Tax (8.5%): $179.71\n        Total Amount: $2,293.91\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "quantum_solutions",
+    "doc_type": "invoice",
+    "date": "2025-03-22T00:43:14.569103",
+    "metadata": {
+      "amount": 2293.9069999999997,
+      "tax_rate": 0.085,
+      "due_date": "2025-04-21T00:43:14.569103",
+      "service_category": "web"
+    }
+  },
+  {
+    "id": "inv_011",
+    "content": "INVOICE #INV-2024-011\n        \n        From: Global Services Inc\n        Date: 2025-04-22\n        Due Date: 2025-05-22\n        \n        Description: Software consulting and implementation\n        Amount: $12,689.90\n        Tax (8.5%): $1,078.64\n        Total Amount: $13,768.54\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "global_services_inc",
+    "doc_type": "invoice",
+    "date": "2025-04-22T00:43:14.569103",
+    "metadata": {
+      "amount": 13768.5415,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-22T00:43:14.569103",
+      "service_category": "software"
+    }
+  },
+  {
+    "id": "inv_012",
+    "content": "INVOICE #INV-2024-012\n        \n        From: Enterprise Systems\n        Date: 2025-06-07\n        Due Date: 2025-07-07\n        \n        Description: Business process automation\n        Amount: $10,727.08\n        Tax (8.5%): $911.80\n        Total Amount: $11,638.88\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-06-07T00:43:14.569103",
+    "metadata": {
+      "amount": 11638.8818,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-07T00:43:14.569103",
+      "service_category": "business"
+    }
+  },
+  {
+    "id": "inv_013",
+    "content": "INVOICE #INV-2024-013\n        \n        From: TechCorp Solutions\n        Date: 2025-05-15\n        Due Date: 2025-06-14\n        \n        Description: Cloud infrastructure management\n        Amount: $3,813.09\n        Tax (8.5%): $324.11\n        Total Amount: $4,137.20\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-05-15T00:43:14.569103",
+    "metadata": {
+      "amount": 4137.20265,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-14T00:43:14.569103",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "inv_014",
+    "content": "INVOICE #INV-2024-014\n        \n        From: Enterprise Systems\n        Date: 2025-04-02\n        Due Date: 2025-05-02\n        \n        Description: Digital marketing services\n        Amount: $1,914.27\n        Tax (8.5%): $162.71\n        Total Amount: $2,076.98\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-04-02T00:43:14.569103",
+    "metadata": {
+      "amount": 2076.98295,
+      "tax_rate": 0.085,
+      "due_date": "2025-05-02T00:43:14.569103",
+      "service_category": "digital"
+    }
+  },
+  {
+    "id": "inv_015",
+    "content": "INVOICE #INV-2024-015\n        \n        From: Innovation Labs\n        Date: 2025-05-25\n        Due Date: 2025-06-24\n        \n        Description: Digital marketing services\n        Amount: $8,600.51\n        Tax (8.5%): $731.04\n        Total Amount: $9,331.55\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "innovation_labs",
+    "doc_type": "invoice",
+    "date": "2025-05-25T00:43:14.569103",
+    "metadata": {
+      "amount": 9331.55335,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-24T00:43:14.569103",
+      "service_category": "digital"
+    }
+  },
+  {
+    "id": "inv_016",
+    "content": "INVOICE #INV-2024-016\n        \n        From: TechCorp Solutions\n        Date: 2025-07-03\n        Due Date: 2025-08-02\n        \n        Description: IT support and maintenance\n        Amount: $5,861.83\n        Tax (8.5%): $498.26\n        Total Amount: $6,360.09\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "techcorp_solutions",
+    "doc_type": "invoice",
+    "date": "2025-07-03T00:43:14.569103",
+    "metadata": {
+      "amount": 6360.08555,
+      "tax_rate": 0.085,
+      "due_date": "2025-08-02T00:43:14.569103",
+      "service_category": "it"
+    }
+  },
+  {
+    "id": "inv_017",
+    "content": "INVOICE #INV-2024-017\n        \n        From: Digital Dynamics\n        Date: 2025-06-13\n        Due Date: 2025-07-13\n        \n        Description: Database optimization and maintenance\n        Amount: $10,047.23\n        Tax (8.5%): $854.01\n        Total Amount: $10,901.24\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "digital_dynamics",
+    "doc_type": "invoice",
+    "date": "2025-06-13T00:43:14.569103",
+    "metadata": {
+      "amount": 10901.24455,
+      "tax_rate": 0.085,
+      "due_date": "2025-07-13T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_018",
+    "content": "INVOICE #INV-2024-018\n        \n        From: Enterprise Systems\n        Date: 2025-08-16\n        Due Date: 2025-09-15\n        \n        Description: Database optimization and maintenance\n        Amount: $11,367.63\n        Tax (8.5%): $966.25\n        Total Amount: $12,333.88\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "enterprise_systems",
+    "doc_type": "invoice",
+    "date": "2025-08-16T00:43:14.569103",
+    "metadata": {
+      "amount": 12333.87855,
+      "tax_rate": 0.085,
+      "due_date": "2025-09-15T00:43:14.569103",
+      "service_category": "database"
+    }
+  },
+  {
+    "id": "inv_019",
+    "content": "INVOICE #INV-2024-019\n        \n        From: Cloud Nine Technologies\n        Date: 2025-05-10\n        Due Date: 2025-06-09\n        \n        Description: System integration services\n        Amount: $813.95\n        Tax (8.5%): $69.19\n        Total Amount: $883.14\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "cloud_nine_technologies",
+    "doc_type": "invoice",
+    "date": "2025-05-10T00:43:14.569103",
+    "metadata": {
+      "amount": 883.13575,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-09T00:43:14.569103",
+      "service_category": "system"
+    }
+  },
+  {
+    "id": "inv_020",
+    "content": "INVOICE #INV-2024-020\n        \n        From: ACME Corporation\n        Date: 2025-05-03\n        Due Date: 2025-06-02\n        \n        Description: Digital marketing services\n        Amount: $1,417.05\n        Tax (8.5%): $120.45\n        Total Amount: $1,537.50\n        \n        Payment Terms: Net 30 days\n        Payment Method: Bank transfer or check\n        \n        Thank you for your business!",
+    "entity_id": "acme_corporation",
+    "doc_type": "invoice",
+    "date": "2025-05-03T00:43:14.569103",
+    "metadata": {
+      "amount": 1537.4992499999998,
+      "tax_rate": 0.085,
+      "due_date": "2025-06-02T00:43:14.569103",
+      "service_category": "digital"
+    }
+  },
+  {
+    "id": "po_001",
+    "content": "PURCHASE ORDER #PO-2024-001\n        \n        Vendor: Salesforce\n        Date: 2025-05-13\n        Expected Delivery: 2025-05-25\n        \n        Items Ordered:\n        Networking equipment (routers, switches)\n        \n        Subtotal: $1,331.87\n        Shipping: $66.59\n        Total: $1,398.46\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-05-13T00:43:14.569314",
+    "metadata": {
+      "amount": 1398.4634999999998,
+      "shipping_cost": 66.59349999999999,
+      "delivery_date": "2025-05-25T00:43:14.569314",
+      "item_category": "networking"
+    }
+  },
+  {
+    "id": "po_002",
+    "content": "PURCHASE ORDER #PO-2024-002\n        \n        Vendor: Microsoft Corporation\n        Date: 2025-07-21\n        Expected Delivery: 2025-08-07\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $1,676.46\n        Shipping: $83.82\n        Total: $1,760.28\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "microsoft_corporation",
+    "doc_type": "purchase_order",
+    "date": "2025-07-21T00:43:14.569314",
+    "metadata": {
+      "amount": 1760.2830000000001,
+      "shipping_cost": 83.82300000000001,
+      "delivery_date": "2025-08-07T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_003",
+    "content": "PURCHASE ORDER #PO-2024-003\n        \n        Vendor: Microsoft Corporation\n        Date: 2025-07-22\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Furniture (desks, chairs, cabinets)\n        \n        Subtotal: $440.02\n        Shipping: $22.00\n        Total: $462.02\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "microsoft_corporation",
+    "doc_type": "purchase_order",
+    "date": "2025-07-22T00:43:14.569314",
+    "metadata": {
+      "amount": 462.021,
+      "shipping_cost": 22.001,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "furniture"
+    }
+  },
+  {
+    "id": "po_004",
+    "content": "PURCHASE ORDER #PO-2024-004\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-17\n        Expected Delivery: 2025-06-06\n        \n        Items Ordered:\n        Mobile devices (phones, tablets)\n        \n        Subtotal: $995.78\n        Shipping: $49.79\n        Total: $1,045.57\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-17T00:43:14.569314",
+    "metadata": {
+      "amount": 1045.569,
+      "shipping_cost": 49.789,
+      "delivery_date": "2025-06-06T00:43:14.569314",
+      "item_category": "mobile"
+    }
+  },
+  {
+    "id": "po_005",
+    "content": "PURCHASE ORDER #PO-2024-005\n        \n        Vendor: Salesforce\n        Date: 2025-06-19\n        Expected Delivery: 2025-06-30\n        \n        Items Ordered:\n        Furniture (desks, chairs, cabinets)\n        \n        Subtotal: $808.90\n        Shipping: $40.45\n        Total: $849.35\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-06-19T00:43:14.569314",
+    "metadata": {
+      "amount": 849.345,
+      "shipping_cost": 40.445,
+      "delivery_date": "2025-06-30T00:43:14.569314",
+      "item_category": "furniture"
+    }
+  },
+  {
+    "id": "po_006",
+    "content": "PURCHASE ORDER #PO-2024-006\n        \n        Vendor: Amazon Business\n        Date: 2025-08-15\n        Expected Delivery: 2025-08-26\n        \n        Items Ordered:\n        Cloud services subscription\n        \n        Subtotal: $747.26\n        Shipping: $37.36\n        Total: $784.62\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "amazon_business",
+    "doc_type": "purchase_order",
+    "date": "2025-08-15T00:43:14.569314",
+    "metadata": {
+      "amount": 784.623,
+      "shipping_cost": 37.363,
+      "delivery_date": "2025-08-26T00:43:14.569314",
+      "item_category": "cloud"
+    }
+  },
+  {
+    "id": "po_007",
+    "content": "PURCHASE ORDER #PO-2024-007\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-09\n        Expected Delivery: 2025-05-21\n        \n        Items Ordered:\n        Office supplies (paper, pens, folders)\n        \n        Subtotal: $186.82\n        Shipping: $9.34\n        Total: $196.16\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-09T00:43:14.569314",
+    "metadata": {
+      "amount": 196.161,
+      "shipping_cost": 9.341,
+      "delivery_date": "2025-05-21T00:43:14.569314",
+      "item_category": "office"
+    }
+  },
+  {
+    "id": "po_008",
+    "content": "PURCHASE ORDER #PO-2024-008\n        \n        Vendor: Staples Inc\n        Date: 2025-07-24\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $2,125.79\n        Shipping: $106.29\n        Total: $2,232.08\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "staples_inc",
+    "doc_type": "purchase_order",
+    "date": "2025-07-24T00:43:14.569314",
+    "metadata": {
+      "amount": 2232.0795000000003,
+      "shipping_cost": 106.2895,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_009",
+    "content": "PURCHASE ORDER #PO-2024-009\n        \n        Vendor: Amazon Business\n        Date: 2025-06-04\n        Expected Delivery: 2025-06-17\n        \n        Items Ordered:\n        Printing supplies (toner, paper)\n        \n        Subtotal: $311.63\n        Shipping: $15.58\n        Total: $327.21\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "amazon_business",
+    "doc_type": "purchase_order",
+    "date": "2025-06-04T00:43:14.569314",
+    "metadata": {
+      "amount": 327.2115,
+      "shipping_cost": 15.5815,
+      "delivery_date": "2025-06-17T00:43:14.569314",
+      "item_category": "printing"
+    }
+  },
+  {
+    "id": "po_010",
+    "content": "PURCHASE ORDER #PO-2024-010\n        \n        Vendor: Office Depot\n        Date: 2025-06-27\n        Expected Delivery: 2025-07-04\n        \n        Items Ordered:\n        Cloud services subscription\n        \n        Subtotal: $612.15\n        Shipping: $30.61\n        Total: $642.76\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "office_depot",
+    "doc_type": "purchase_order",
+    "date": "2025-06-27T00:43:14.569314",
+    "metadata": {
+      "amount": 642.7575,
+      "shipping_cost": 30.6075,
+      "delivery_date": "2025-07-04T00:43:14.569314",
+      "item_category": "cloud"
+    }
+  },
+  {
+    "id": "po_011",
+    "content": "PURCHASE ORDER #PO-2024-011\n        \n        Vendor: Office Depot\n        Date: 2025-06-13\n        Expected Delivery: 2025-06-24\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $806.55\n        Shipping: $40.33\n        Total: $846.88\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "office_depot",
+    "doc_type": "purchase_order",
+    "date": "2025-06-13T00:43:14.569314",
+    "metadata": {
+      "amount": 846.8774999999999,
+      "shipping_cost": 40.3275,
+      "delivery_date": "2025-06-24T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_012",
+    "content": "PURCHASE ORDER #PO-2024-012\n        \n        Vendor: HP Enterprise\n        Date: 2025-05-22\n        Expected Delivery: 2025-06-09\n        \n        Items Ordered:\n        Mobile devices (phones, tablets)\n        \n        Subtotal: $811.96\n        Shipping: $40.60\n        Total: $852.56\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "hp_enterprise",
+    "doc_type": "purchase_order",
+    "date": "2025-05-22T00:43:14.569314",
+    "metadata": {
+      "amount": 852.5580000000001,
+      "shipping_cost": 40.598000000000006,
+      "delivery_date": "2025-06-09T00:43:14.569314",
+      "item_category": "mobile"
+    }
+  },
+  {
+    "id": "po_013",
+    "content": "PURCHASE ORDER #PO-2024-013\n        \n        Vendor: Staples Inc\n        Date: 2025-05-01\n        Expected Delivery: 2025-05-11\n        \n        Items Ordered:\n        Software licenses (productivity suite)\n        \n        Subtotal: $1,190.26\n        Shipping: $59.51\n        Total: $1,249.77\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "staples_inc",
+    "doc_type": "purchase_order",
+    "date": "2025-05-01T00:43:14.569314",
+    "metadata": {
+      "amount": 1249.7730000000001,
+      "shipping_cost": 59.513000000000005,
+      "delivery_date": "2025-05-11T00:43:14.569314",
+      "item_category": "software"
+    }
+  },
+  {
+    "id": "po_014",
+    "content": "PURCHASE ORDER #PO-2024-014\n        \n        Vendor: Salesforce\n        Date: 2025-07-20\n        Expected Delivery: 2025-08-01\n        \n        Items Ordered:\n        Computer hardware (laptops, monitors)\n        \n        Subtotal: $2,466.26\n        Shipping: $123.31\n        Total: $2,589.57\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-07-20T00:43:14.569314",
+    "metadata": {
+      "amount": 2589.5730000000003,
+      "shipping_cost": 123.31300000000002,
+      "delivery_date": "2025-08-01T00:43:14.569314",
+      "item_category": "computer"
+    }
+  },
+  {
+    "id": "po_015",
+    "content": "PURCHASE ORDER #PO-2024-015\n        \n        Vendor: Salesforce\n        Date: 2025-06-06\n        Expected Delivery: 2025-06-26\n        \n        Items Ordered:\n        Office supplies (paper, pens, folders)\n        \n        Subtotal: $200.05\n        Shipping: $10.00\n        Total: $210.05\n        \n        Billing Address: 123 Business St, Corporate City, CC 12345\n        Shipping Address: Same as billing\n        \n        Terms: Payment due within 30 days of delivery",
+    "entity_id": "salesforce",
+    "doc_type": "purchase_order",
+    "date": "2025-06-06T00:43:14.569314",
+    "metadata": {
+      "amount": 210.0525,
+      "shipping_cost": 10.002500000000001,
+      "delivery_date": "2025-06-26T00:43:14.569314",
+      "item_category": "office"
+    }
+  },
+  {
+    "id": "contract_001",
+    "content": "SERVICE AGREEMENT #SA-2024-001\n        \n        Service Provider: Marketing Experts\n        Client: Your Company Name\n        \n        Contract Date: 2024-10-07\n        Effective Period: 2024-10-07 to 2026-09-27\n        Duration: 24 months\n        \n        Services Description:\n        Business consulting\n        \n        Financial Terms:\n        Monthly Fee: $773.86\n        Total Contract Value: $18,572.64\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "marketing_experts",
+    "doc_type": "contract",
+    "date": "2024-10-07T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 773.86,
+      "duration_months": 24,
+      "total_value": 18572.64,
+      "end_date": "2026-09-27T00:43:14.569438",
+      "service_category": "business"
+    }
+  },
+  {
+    "id": "contract_002",
+    "content": "SERVICE AGREEMENT #SA-2024-002\n        \n        Service Provider: SecureData Inc\n        Client: Your Company Name\n        \n        Contract Date: 2025-01-05\n        Effective Period: 2025-01-05 to 2025-07-04\n        Duration: 6 months\n        \n        Services Description:\n        Facility maintenance services\n        \n        Financial Terms:\n        Monthly Fee: $1,045.64\n        Total Contract Value: $6,273.84\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "securedata_inc",
+    "doc_type": "contract",
+    "date": "2025-01-05T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 1045.64,
+      "duration_months": 6,
+      "total_value": 6273.84,
+      "end_date": "2025-07-04T00:43:14.569438",
+      "service_category": "facility"
+    }
+  },
+  {
+    "id": "contract_003",
+    "content": "SERVICE AGREEMENT #SA-2024-003\n        \n        Service Provider: SecureData Inc\n        Client: Your Company Name\n        \n        Contract Date: 2024-12-23\n        Effective Period: 2024-12-23 to 2025-12-18\n        Duration: 12 months\n        \n        Services Description:\n        IT support and maintenance\n        \n        Financial Terms:\n        Monthly Fee: $765.56\n        Total Contract Value: $9,186.72\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "securedata_inc",
+    "doc_type": "contract",
+    "date": "2024-12-23T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 765.56,
+      "duration_months": 12,
+      "total_value": 9186.72,
+      "end_date": "2025-12-18T00:43:14.569438",
+      "service_category": "it"
+    }
+  },
+  {
+    "id": "contract_004",
+    "content": "SERVICE AGREEMENT #SA-2024-004\n        \n        Service Provider: Maintenance Solutions\n        Client: Your Company Name\n        \n        Contract Date: 2025-06-17\n        Effective Period: 2025-06-17 to 2028-06-01\n        Duration: 36 months\n        \n        Services Description:\n        Security monitoring services\n        \n        Financial Terms:\n        Monthly Fee: $418.98\n        Total Contract Value: $15,083.28\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "maintenance_solutions",
+    "doc_type": "contract",
+    "date": "2025-06-17T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 418.98,
+      "duration_months": 36,
+      "total_value": 15083.28,
+      "end_date": "2028-06-01T00:43:14.569438",
+      "service_category": "security"
+    }
+  },
+  {
+    "id": "contract_005",
+    "content": "SERVICE AGREEMENT #SA-2024-005\n        \n        Service Provider: Consulting Group\n        Client: Your Company Name\n        \n        Contract Date: 2025-03-30\n        Effective Period: 2025-03-30 to 2026-03-25\n        Duration: 12 months\n        \n        Services Description:\n        Legal consultation services\n        \n        Financial Terms:\n        Monthly Fee: $344.69\n        Total Contract Value: $4,136.28\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "consulting_group",
+    "doc_type": "contract",
+    "date": "2025-03-30T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 344.69,
+      "duration_months": 12,
+      "total_value": 4136.28,
+      "end_date": "2026-03-25T00:43:14.569438",
+      "service_category": "legal"
+    }
+  },
+  {
+    "id": "contract_006",
+    "content": "SERVICE AGREEMENT #SA-2024-006\n        \n        Service Provider: CloudHost Services\n        Client: Your Company Name\n        \n        Contract Date: 2025-06-09\n        Effective Period: 2025-06-09 to 2025-12-06\n        Duration: 6 months\n        \n        Services Description:\n        Marketing and advertising services\n        \n        Financial Terms:\n        Monthly Fee: $2,528.61\n        Total Contract Value: $15,171.66\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "cloudhost_services",
+    "doc_type": "contract",
+    "date": "2025-06-09T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 2528.61,
+      "duration_months": 6,
+      "total_value": 15171.66,
+      "end_date": "2025-12-06T00:43:14.569438",
+      "service_category": "marketing"
+    }
+  },
+  {
+    "id": "contract_007",
+    "content": "SERVICE AGREEMENT #SA-2024-007\n        \n        Service Provider: Marketing Experts\n        Client: Your Company Name\n        \n        Contract Date: 2025-02-16\n        Effective Period: 2025-02-16 to 2028-02-01\n        Duration: 36 months\n        \n        Services Description:\n        Security monitoring services\n        \n        Financial Terms:\n        Monthly Fee: $727.34\n        Total Contract Value: $26,184.24\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "marketing_experts",
+    "doc_type": "contract",
+    "date": "2025-02-16T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 727.34,
+      "duration_months": 36,
+      "total_value": 26184.24,
+      "end_date": "2028-02-01T00:43:14.569438",
+      "service_category": "security"
+    }
+  },
+  {
+    "id": "contract_008",
+    "content": "SERVICE AGREEMENT #SA-2024-008\n        \n        Service Provider: Legal Advisors LLC\n        Client: Your Company Name\n        \n        Contract Date: 2024-10-05\n        Effective Period: 2024-10-05 to 2025-09-30\n        Duration: 12 months\n        \n        Services Description:\n        Cloud hosting and backup services\n        \n        Financial Terms:\n        Monthly Fee: $358.11\n        Total Contract Value: $4,297.32\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "legal_advisors_llc",
+    "doc_type": "contract",
+    "date": "2024-10-05T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 358.11,
+      "duration_months": 12,
+      "total_value": 4297.32,
+      "end_date": "2025-09-30T00:43:14.569438",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "contract_009",
+    "content": "SERVICE AGREEMENT #SA-2024-009\n        \n        Service Provider: Security Systems\n        Client: Your Company Name\n        \n        Contract Date: 2024-12-29\n        Effective Period: 2024-12-29 to 2027-12-14\n        Duration: 36 months\n        \n        Services Description:\n        Facility maintenance services\n        \n        Financial Terms:\n        Monthly Fee: $608.22\n        Total Contract Value: $21,895.92\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "security_systems",
+    "doc_type": "contract",
+    "date": "2024-12-29T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 608.22,
+      "duration_months": 36,
+      "total_value": 21895.920000000002,
+      "end_date": "2027-12-14T00:43:14.569438",
+      "service_category": "facility"
+    }
+  },
+  {
+    "id": "contract_010",
+    "content": "SERVICE AGREEMENT #SA-2024-010\n        \n        Service Provider: Security Systems\n        Client: Your Company Name\n        \n        Contract Date: 2025-03-31\n        Effective Period: 2025-03-31 to 2028-03-15\n        Duration: 36 months\n        \n        Services Description:\n        Cloud hosting and backup services\n        \n        Financial Terms:\n        Monthly Fee: $827.05\n        Total Contract Value: $29,773.80\n        Payment Schedule: Monthly in advance\n        \n        Terms and Conditions:\n        - Services to be provided as specified in Exhibit A\n        - Either party may terminate with 30 days written notice\n        - All fees are non-refundable\n        - Service level agreements as defined in Exhibit B\n        \n        This agreement is governed by the laws of the State of California.",
+    "entity_id": "security_systems",
+    "doc_type": "contract",
+    "date": "2025-03-31T00:43:14.569438",
+    "metadata": {
+      "monthly_fee": 827.05,
+      "duration_months": 36,
+      "total_value": 29773.8,
+      "end_date": "2028-03-15T00:43:14.569438",
+      "service_category": "cloud"
+    }
+  },
+  {
+    "id": "receipt_001",
+    "content": "RECEIPT #RCP-0001\n        \n        Merchant: Conference Center\n        Date: 2025-07-13\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $562.38\n        Tax: $49.21\n        Total: $611.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7028\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-07-13T00:43:14.569542",
+    "metadata": {
+      "amount": 611.5882499999999,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_002",
+    "content": "RECEIPT #RCP-0002\n        \n        Merchant: Conference Center\n        Date: 2025-05-23\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $48.34\n        Tax: $4.23\n        Total: $52.57\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6238\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-05-23T00:43:14.569542",
+    "metadata": {
+      "amount": 52.56975,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_003",
+    "content": "RECEIPT #RCP-0003\n        \n        Merchant: Gas Station Plus\n        Date: 2025-05-23\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $75.40\n        Tax: $6.60\n        Total: $82.00\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7869\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-05-23T00:43:14.569542",
+    "metadata": {
+      "amount": 81.9975,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_004",
+    "content": "RECEIPT #RCP-0004\n        \n        Merchant: Hotel California\n        Date: 2025-06-16\n        Time: 00:43\n        \n        Description: Business travel - car rental\n        Amount: $119.83\n        Tax: $10.49\n        Total: $130.32\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4739\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-06-16T00:43:14.569542",
+    "metadata": {
+      "amount": 130.315125,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_005",
+    "content": "RECEIPT #RCP-0005\n        \n        Merchant: Business Travel Agency\n        Date: 2025-06-19\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $283.20\n        Tax: $24.78\n        Total: $307.98\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9710\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "business_travel_agency",
+    "doc_type": "receipt",
+    "date": "2025-06-19T00:43:14.569542",
+    "metadata": {
+      "amount": 307.97999999999996,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_006",
+    "content": "RECEIPT #RCP-0006\n        \n        Merchant: Conference Center\n        Date: 2025-08-09\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $398.55\n        Tax: $34.87\n        Total: $433.42\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9021\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-08-09T00:43:14.569542",
+    "metadata": {
+      "amount": 433.42312499999997,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_007",
+    "content": "RECEIPT #RCP-0007\n        \n        Merchant: Office Supply Store\n        Date: 2025-05-29\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $93.16\n        Tax: $8.15\n        Total: $101.31\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4477\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-05-29T00:43:14.569542",
+    "metadata": {
+      "amount": 101.31149999999998,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_008",
+    "content": "RECEIPT #RCP-0008\n        \n        Merchant: Enterprise Car Rental\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business meals - employee lunch\n        Amount: $62.15\n        Tax: $5.44\n        Total: $67.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3665\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "enterprise_car_rental",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 67.58812499999999,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_009",
+    "content": "RECEIPT #RCP-0009\n        \n        Merchant: Coffee Shop Express\n        Date: 2025-06-15\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $249.64\n        Tax: $21.84\n        Total: $271.48\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6472\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "coffee_shop_express",
+    "doc_type": "receipt",
+    "date": "2025-06-15T00:43:14.569542",
+    "metadata": {
+      "amount": 271.48349999999994,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_010",
+    "content": "RECEIPT #RCP-0010\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-07-31\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $252.78\n        Tax: $22.12\n        Total: $274.90\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3378\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-07-31T00:43:14.569542",
+    "metadata": {
+      "amount": 274.89824999999996,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_011",
+    "content": "RECEIPT #RCP-0011\n        \n        Merchant: Conference Center\n        Date: 2025-05-29\n        Time: 00:43\n        \n        Description: Business meals - employee lunch\n        Amount: $45.92\n        Tax: $4.02\n        Total: $49.94\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7527\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-05-29T00:43:14.569542",
+    "metadata": {
+      "amount": 49.937999999999995,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_012",
+    "content": "RECEIPT #RCP-0012\n        \n        Merchant: Office Supply Store\n        Date: 2025-08-05\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $59.32\n        Tax: $5.19\n        Total: $64.51\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3056\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-08-05T00:43:14.569542",
+    "metadata": {
+      "amount": 64.5105,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_013",
+    "content": "RECEIPT #RCP-0013\n        \n        Merchant: Office Supply Store\n        Date: 2025-06-12\n        Time: 00:43\n        \n        Description: Office supplies and materials\n        Amount: $73.86\n        Tax: $6.46\n        Total: $80.32\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4083\n        \n        Business Purpose: Office Supplies And Materials\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-06-12T00:43:14.569542",
+    "metadata": {
+      "amount": 80.32275,
+      "tax_rate": 0.0875,
+      "category": "office_supplies_and_materials",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_014",
+    "content": "RECEIPT #RCP-0014\n        \n        Merchant: Business Travel Agency\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $395.25\n        Tax: $34.58\n        Total: $429.83\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6803\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "business_travel_agency",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 429.83437499999997,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_015",
+    "content": "RECEIPT #RCP-0015\n        \n        Merchant: Hotel California\n        Date: 2025-06-28\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $101.40\n        Tax: $8.87\n        Total: $110.27\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7311\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-06-28T00:43:14.569542",
+    "metadata": {
+      "amount": 110.2725,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_016",
+    "content": "RECEIPT #RCP-0016\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-07-14\n        Time: 00:43\n        \n        Description: Office supplies and materials\n        Amount: $76.69\n        Tax: $6.71\n        Total: $83.40\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 6804\n        \n        Business Purpose: Office Supplies And Materials\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-07-14T00:43:14.569542",
+    "metadata": {
+      "amount": 83.400375,
+      "tax_rate": 0.0875,
+      "category": "office_supplies_and_materials",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_017",
+    "content": "RECEIPT #RCP-0017\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-08-03\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $786.56\n        Tax: $68.82\n        Total: $855.38\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7520\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-08-03T00:43:14.569542",
+    "metadata": {
+      "amount": 855.3839999999999,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_018",
+    "content": "RECEIPT #RCP-0018\n        \n        Merchant: Hotel California\n        Date: 2025-07-14\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $513.66\n        Tax: $44.95\n        Total: $558.61\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3318\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-07-14T00:43:14.569542",
+    "metadata": {
+      "amount": 558.60525,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_019",
+    "content": "RECEIPT #RCP-0019\n        \n        Merchant: Hotel California\n        Date: 2025-07-16\n        Time: 00:43\n        \n        Description: Transportation - fuel\n        Amount: $49.36\n        Tax: $4.32\n        Total: $53.68\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 5275\n        \n        Business Purpose: Transportation\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "hotel_california",
+    "doc_type": "receipt",
+    "date": "2025-07-16T00:43:14.569542",
+    "metadata": {
+      "amount": 53.678999999999995,
+      "tax_rate": 0.0875,
+      "category": "transportation",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_020",
+    "content": "RECEIPT #RCP-0020\n        \n        Merchant: Conference Center\n        Date: 2025-07-03\n        Time: 00:43\n        \n        Description: Business travel - car rental\n        Amount: $84.59\n        Tax: $7.40\n        Total: $91.99\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 8011\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-07-03T00:43:14.569542",
+    "metadata": {
+      "amount": 91.991625,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_021",
+    "content": "RECEIPT #RCP-0021\n        \n        Merchant: Gas Station Plus\n        Date: 2025-06-12\n        Time: 00:43\n        \n        Description: Conference and training fees\n        Amount: $121.69\n        Tax: $10.65\n        Total: $132.34\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 9589\n        \n        Business Purpose: Conference And Training Fees\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-06-12T00:43:14.569542",
+    "metadata": {
+      "amount": 132.337875,
+      "tax_rate": 0.0875,
+      "category": "conference_and_training_fees",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_022",
+    "content": "RECEIPT #RCP-0022\n        \n        Merchant: Restaurant Deluxe\n        Date: 2025-06-01\n        Time: 00:43\n        \n        Description: Business travel - parking\n        Amount: $32.72\n        Tax: $2.86\n        Total: $35.58\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 4156\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "restaurant_deluxe",
+    "doc_type": "receipt",
+    "date": "2025-06-01T00:43:14.569542",
+    "metadata": {
+      "amount": 35.583,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_023",
+    "content": "RECEIPT #RCP-0023\n        \n        Merchant: Gas Station Plus\n        Date: 2025-06-09\n        Time: 00:43\n        \n        Description: Business travel - hotel\n        Amount: $319.32\n        Tax: $27.94\n        Total: $347.26\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 3031\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "gas_station_plus",
+    "doc_type": "receipt",
+    "date": "2025-06-09T00:43:14.569542",
+    "metadata": {
+      "amount": 347.2605,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_024",
+    "content": "RECEIPT #RCP-0024\n        \n        Merchant: Conference Center\n        Date: 2025-08-15\n        Time: 00:43\n        \n        Description: Business travel - airfare\n        Amount: $786.79\n        Tax: $68.84\n        Total: $855.63\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 2281\n        \n        Business Purpose: Business Travel\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "conference_center",
+    "doc_type": "receipt",
+    "date": "2025-08-15T00:43:14.569542",
+    "metadata": {
+      "amount": 855.6341249999999,
+      "tax_rate": 0.0875,
+      "category": "business_travel",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  },
+  {
+    "id": "receipt_025",
+    "content": "RECEIPT #RCP-0025\n        \n        Merchant: Office Supply Store\n        Date: 2025-07-08\n        Time: 00:43\n        \n        Description: Business meals - client entertainment\n        Amount: $159.62\n        Tax: $13.97\n        Total: $173.59\n        \n        Payment Method: Corporate Credit Card\n        Card Last 4 Digits: 7182\n        \n        Business Purpose: Business Meals\n        Employee: John Doe\n        Department: Operations",
+    "entity_id": "office_supply_store",
+    "doc_type": "receipt",
+    "date": "2025-07-08T00:43:14.569542",
+    "metadata": {
+      "amount": 173.58675,
+      "tax_rate": 0.0875,
+      "category": "business_meals",
+      "employee": "john_doe",
+      "department": "operations"
+    }
+  }
+]

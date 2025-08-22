@@ -1,0 +1,121 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/pyproject.toml') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .
+        pip install pytest pytest-asyncio pytest-cov
+    
+    - name: Generate sample data
+      run: |
+        python examples/sample_data/generate_sample_data.py
+    
+    - name: Run tests
+      run: |
+        python -m pytest tests/ -v --cov=semantic_search --cov-report=xml
+    
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+
+  integration-test:
+    runs-on: ubuntu-latest
+    needs: test
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .
+    
+    - name: Run integration tests
+      run: |
+        python examples/sample_data/generate_sample_data.py
+        python examples/basic_usage.py
+        python examples/tfidf_vs_transformer.py
+
+  docker-test:
+    runs-on: ubuntu-latest
+    needs: test
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Build Docker image
+      run: |
+        docker build -f docker/Dockerfile -t semantic-search:test .
+    
+    - name: Test Docker container
+      run: |
+        docker run --rm semantic-search:test health
+        docker run --rm semantic-search:test generate-data
+        docker run --rm semantic-search:test demo
+
+  code-quality:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.12"
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install black isort mypy flake8
+        pip install -e .
+    
+    - name: Check code formatting
+      run: |
+        black --check src/ tests/ examples/
+        isort --check-only src/ tests/ examples/
+    
+    - name: Run type checking
+      run: |
+        mypy src/
+    
+    - name: Run linting
+      run: |
+        flake8 src/ tests/ examples/
